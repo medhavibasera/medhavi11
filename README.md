@@ -8,3 +8,5 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
 -<a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">Linkedin</a>
  
  I would love to help and collaborate! 🌼
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=medhavi11">
