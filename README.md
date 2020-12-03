@@ -1,4 +1,5 @@
-### Hi , I'm Medhavi![![Medhavi basera's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/medhavi11)
+### Hi , I'm Medhavi!
+[![Medhavi basera's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/medhavi11)
 
 I'm a Developer, who is passionate about learning. Some technologies I enjoy working with include ReactJS, HTML, CSS, JAVASCRIPT .I am currently into competitive coding.
 Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO/">My Website❤️ </a>
