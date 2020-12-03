@@ -1,6 +1,4 @@
-### Hi , I'm Medhavi!
-
-<a href="https://dev.to/medhavi11">
+### Hi , I'm Medhavi!<a href="https://dev.to/medhavi11">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="30" width="30">
 </a>
 
