@@ -9,7 +9,7 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
 <img src="https://github.com/medhavi11/linkedin/blob/main/LI-In-Bug.png" alt="Medhavi basera's LINKEDIN Profile" height="30" width="30">
 </a>
 <a href="https://dev.to/medhavi11">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="31" width="31">
 </a>
  
  I would love to help and collaborate! 🌼
