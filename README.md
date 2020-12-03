@@ -16,4 +16,4 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
  
  
  
- <img align="center" src="https://media.giphy.com/media/26uf9Ne4USMSeDoA0/giphy.gif" width="500">
+ <img align="center" src="https://media.giphy.com/media/26uf9Ne4USMSeDoA0/giphy.gif" width="450">
