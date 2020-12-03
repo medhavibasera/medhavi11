@@ -9,4 +9,11 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
  
  I would love to help and collaborate! 🌼
  
+ 
+ 
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=medhavi11">
+ 
+ 
+ 
+ <img align="center" src="https://media.giphy.com/media/26uf9Ne4USMSeDoA0/giphy.gif" width="200">
