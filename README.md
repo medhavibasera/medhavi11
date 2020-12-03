@@ -1,4 +1,4 @@
-### Hi , I'm Medhavi!<a href="https://dev.to/medhavi11"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="30" width="30"</a>
+### Hi , I'm Medhavi!
 
 I'm a Developer, who is passionate about learning. Some technologies I enjoy working with include ReactJS, HTML, CSS, JAVASCRIPT .I am currently into competitive coding.
 Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO/">My Website❤️ </a>
@@ -6,6 +6,9 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
 
 ### Find me around web 🌎
 -<a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">Linkedin</a>
+<a href="https://dev.to/medhavi11">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="30" width="30">
+</a>
  
  I would love to help and collaborate! 🌼
  
