@@ -12,7 +12,7 @@ Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO
  
  
  
- <img src="https://github-readme-stats.vercel.app/api?username=medhavi11">
+ <img src="https://github-readme-stats.vercel.app/api?username=medhavi11" width="550">
  
  
  
