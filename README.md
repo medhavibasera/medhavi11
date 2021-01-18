@@ -5,9 +5,8 @@
  Some technologies I enjoy working with include ReactJS, HTML, CSS, JAVASCRIPT .
  I love to read books and listen to podcast. I am currently learning Web Backend.
  Building projects is what I love !!
- 
+        
    Also ,to know more about me visit <a href="https://medhavi11.github.io/PORTFOLIO/">My Website❤️ </a>
- 
  I would love to help and collaborate ! :blossom:
 
 ## Find me around web 🌎
@@ -22,6 +21,7 @@
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=medhavi11&layout=compact&theme=material-palenight" />
+ 
  <br>
  
  ## Languages and Tools:
@@ -47,5 +47,5 @@
  </table>
  <br>
 
- <div><br><br>Hit a star :star: <br>
- <img align="right" height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div> 
+  <div><br><br>**Hit a star**  :star:<br>
+ <img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div> 
