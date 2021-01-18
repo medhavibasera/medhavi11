@@ -16,8 +16,12 @@
 </a>
 <a href="https://dev.to/medhavi11">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="33" width="33">
-</a><br>
- <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=medhavi11&show_icons=true&include_all_commits=true&theme=material-palenight">
+</a>
+
+
+<br>
+<br>
+<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=medhavi11&show_icons=true&include_all_commits=true&theme=material-palenight">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=medhavi11&layout=compact&theme=material-palenight" />
