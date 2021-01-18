@@ -46,6 +46,8 @@
   </tr>
  </table>
  <br>
-
-  <div><br><br>**Hit a star**  :star:<br>
+<div>
+ <br><br>
+ ### Hit a star :star:
+ <br>
  <img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div> 
