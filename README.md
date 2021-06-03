@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/26uf9Ne4USMSeDoA0/giphy.gif" width="250" height="150">
  A contriver, who is passionate about learning. 
- Some technologies I enjoy working with include ReactJS, Firebase, CSS, JAVASCRIPT .
+ Some technologies I enjoy working with include ReactJS, Firebase.
  I love to read books and listen to podcast. I am currently learning Web Backend.
  Building projects is what I love !!
         
