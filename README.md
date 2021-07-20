@@ -13,7 +13,7 @@
 ## Find me around web 🌎
 
 <a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">
-<img src="https://raw.githubusercontent.com/medhavi11/Linkedin/main/174857.png?token=APHCJ56R2VFBAKSYG5I2WJTA76DX6" alt="Medhavi basera's LINKEDIN Profile" height="30" width="30">
+<img src="https://raw.githubusercontent.com/medhavi11/Linkedin/main/174857.png?token=APHCJ56R2VFBAKSYG5I2WJTA76DX6" alt="Medhavi basera's LINKEDIN Profile" height="28" width="30">
 </a>
 <a href="https://dev.to/medhavi11">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="33" width="33">
