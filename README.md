@@ -29,8 +29,7 @@
  
  <br>
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=blux&hide_border=true)](https://git.io/streak-stats)
- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=material-palenight)](https://git.io/streak-stats) 
  <br>
  
  
