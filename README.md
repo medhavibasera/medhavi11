@@ -29,8 +29,8 @@
  
  <br>
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=material-palenight)](https://git.io/streak-stats) 
- <br>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=material-palenight)](https://git.io/streak-stats) 
+ <br> -->
  
  
  
