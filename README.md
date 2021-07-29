@@ -12,14 +12,14 @@
 
 ## Find me around web 🌎
 
-<a title="Portfolio, saurabhdaware.in" href="https://saurabhdaware.in"><img alt="My portfolio, medhavimb.me" src="https://medhavimb.me/" width="130" /></a>
+<a title="Portfolio, saurabhdaware.in" href="https://medhavimb.me/"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a>
 
-<a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">
+<!-- <a href="https://www.linkedin.com/in/medhavi-basera-9b30261a2/">
 <img src="https://raw.githubusercontent.com/medhavi11/Linkedin/main/174857.png?token=APHCJ56R2VFBAKSYG5I2WJTA76DX6" alt="Medhavi basera's LINKEDIN Profile" height="28" width="30">
-</a>
-<a href="https://dev.to/medhavi11">
+</a> -->
+<!-- <a href="https://dev.to/medhavi11">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Medhavi basera's DEV Profile" height="33" width="33">
-</a>
+</a> -->
 
 
 <br>
