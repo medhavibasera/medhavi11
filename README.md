@@ -1,8 +1,12 @@
-# Hi , I'm Medhavi! :space_invader:
+#  <p align="center">Hi , I'm Medhavi! :space_invader:<p> 
+###   <p align="center">A passionate developer from India<p> 
+ <br>
+ <br>
+
 
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
 
-<br>
+<!-- <br> -->
 
  A contriver, who is passionate about learning. 
  Some technologies I enjoy working with include ReactJS, Firebase.
@@ -12,9 +16,10 @@
 <!--  Also ,to know more about me visit <a href="https://medhavimb.me/">My Website❤️ </a> -->
             
  I would love to help and collaborate ! :blossom:
+<br>
+<br>
+<br>
  <br>
-<br>
-<br>
 
 ## Find me around web 🌎
 
