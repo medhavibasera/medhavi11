@@ -36,10 +36,10 @@
 
 <!-- <br>
 <br> -->
-<p>
+<p align="center">
 <a href="https://github.com/medhavi11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+ <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
