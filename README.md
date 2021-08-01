@@ -48,11 +48,13 @@
 </a>
 </p>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
- 
 
- 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=material-palenight)](https://git.io/streak-stats) 
- <br> -->
+<p align="center">
+
+  <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=blux&hide_border=true"/> 
+
+</p>
+ <br>
  
  
  
