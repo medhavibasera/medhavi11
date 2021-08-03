@@ -46,7 +46,6 @@
  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 </p>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <p align="center">
 
