@@ -6,7 +6,6 @@
 
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
 
-<!-- <br> -->
 
  A contriver, who is passionate about learning. 
  Some technologies I enjoy working with include ReactJS, Firebase.
