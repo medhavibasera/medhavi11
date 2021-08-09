@@ -47,9 +47,7 @@
 </p>
 
 <p align="center">
-
-  <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=blux&hide_border=true"/> 
-
+ <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=blux&hide_border=true"/> 
 </p>
  <br>
  
