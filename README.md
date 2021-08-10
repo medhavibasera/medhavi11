@@ -2,8 +2,8 @@
 ###   <p align="center">A passionate developer from India<p> 
  <br>
  <br>
-
-
+<!-- br
+ -->
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
 
 
