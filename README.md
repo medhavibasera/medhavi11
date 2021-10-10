@@ -38,8 +38,7 @@
 </a> -->
 
 
-<!-- <br>
-<br> -->
+
 <p align="center">
 <a href="https://github.com/medhavi11">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
