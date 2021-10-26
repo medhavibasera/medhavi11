@@ -1,11 +1,13 @@
-#  <p align="center">Hi , I'm Medhavi! :space_invader:<p> 
+#  <p align="center">Hi , I'm Medhavi! <img align="center" src="https://github.com/ac-ayan/image-assets/blob/master/emoji-1_adobespark.png" width="200" height="200" />
+<p>  
+<!-- :space_invader: -->
+ 
 ###   <p align="center">A passionate developer from India<p> 
+ 
  <br>
  <br>
 
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
-
-
  A contriver, who is passionate about learning. 
  Some technologies I enjoy working with include ReactJS, Firebase.
  I love to read books and listen to podcast. I am currently learning Web Backend.
