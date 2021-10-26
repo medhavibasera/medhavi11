@@ -1,4 +1,4 @@
-#  <p align="center">Hi , I'm Medhavi! <img align="center" src="https://github.com/ac-ayan/image-assets/blob/master/emoji-1_adobespark.png" width="200" height="200" />
+#  <p align="center">Hi , I'm Medhavi! <img align="center" src="https://user-images.githubusercontent.com/63841527/138949777-1e20607f-87cd-480c-bcf0-f8f80d2f3817.png" width="200" height="200" />
 <p>  
 <!-- :space_invader: -->
  
