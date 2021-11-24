@@ -12,9 +12,7 @@
  Some technologies I enjoy working with include ReactJS, Firebase.
  I love to read books and listen to podcast. I am currently learning Web Backend.
  Building projects is what I love !!
- 
- Drop a text if you are interested in ML + Web integrated projects 🚀.
-            
+             
  I would love to help and collaborate ! :blossom:
 <br>
 <br>
