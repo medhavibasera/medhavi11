@@ -10,7 +10,7 @@
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
  A contriver, who is passionate about learning. 
  Some technologies I enjoy working with include ReactJS, Firebase.
- I love to read books and listen to podcast. I am currently learning Web Backend.
+ I love to read books and listen to podcast. I am currently learning Web Backend and brushing up my DSA concepts 🛠.
  Building projects is what I love !!
              
  I would love to help and collaborate ! :blossom:
