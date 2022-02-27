@@ -105,6 +105,6 @@
  <br><br>
  
  
- *Hit a star* :star:
+ *Hit a star*  :star:
  <br>
  <img height="80" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div> 
