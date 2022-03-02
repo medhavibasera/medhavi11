@@ -21,9 +21,7 @@
 <br>
 <br>
 
-## Find me around web 🌎
 
-<a title="Portfolio, saurabhdaware.in" href="https://medhavimb.me/"><img alt="My portfolio, saurabhdaware.in" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a>
 <!-- <p>
 
 <a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
