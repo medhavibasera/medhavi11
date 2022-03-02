@@ -40,22 +40,23 @@
 
 
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://github.com/medhavi11">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2D31FA&bg_color=040303&text_color=fff&icon_color=2D31FA&border_color=2D31FA"/> 
+ <br>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&hide_border=true&title_color=2D31FA&bg_color=040303&text_color=fff&icon_color=2D31FA&border_color=2D31FA"/>
 </a>
-</p>
-
-<p align="center">
+<!-- </p>
+ -->
+<!-- <p align="center">
  <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=medhavi11&theme=blux&hide_border=true"/> 
 </p>
- <br>
+ <br> -->
  
 <!--  [![Medhavi's github activity graph](https://activity-graph.herokuapp.com/graph?username=medhavi11&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-
- ## 🛠 &nbsp; Languages and Tools:
+<!-- 
+ ## 🛠 &nbsp; Languages and Tools: -->
 
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -69,7 +70,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 <br>
@@ -91,20 +92,20 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
 
-
+ -->
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
      Profile views <br><br>
         <img  src="https://profile-counter.glitch.me/medhavi11/count.svg" alt="">
 </p>
-
- <br>
+ -->
+<!--  <br>
 <div>
- <br><br>
+ <br><br> -->
  
  
- *Hit a star*  :star:
+<!--  *Hit a star*  :star:
  <br>
- <img height="80" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div> 
+ <img height="80" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></div>  -->
