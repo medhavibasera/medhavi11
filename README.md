@@ -7,6 +7,7 @@
  <br>
  <br>
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
+ I am frontend web developer based in India.
  A contriver, who is passionate about learning :heart:. 
  Some technologies I enjoy working with include ReactJS :atom_symbol: , Firebase :fire:.
  I love to read books and listen to podcast. I am currently brushing up my DSA concepts 🛠.
