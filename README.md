@@ -44,7 +44,7 @@
 <a href="https://github.com/medhavi11">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medhavi11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2D31FA&bg_color=040303&text_color=fff&icon_color=2D31FA&border_color=2D31FA"/> 
  <br>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&hide_border=true&title_color=2D31FA&bg_color=040303&text_color=fff&icon_color=2D31FA&border_color=2D31FA"/>
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=medhavi11&layout=compact&langs_count=8&hide_border=true&title_color=2D31FA&bg_color=040303&text_color=fff&icon_color=2D31FA&border_color=2D31FA"/>
 </a>
 <!-- </p>
  -->
