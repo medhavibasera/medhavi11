@@ -2,7 +2,7 @@
 <p>   -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/medhavi11/Img-repo/ca41bc071ec953d53f0a06d8446b8ac45ebd2a47/images/Group%201.png?token=GHSAT0AAAAAABJI74QKZSR4MVWD5MYGPKPEYRIN2AQ" width="5000" height="300">
+<img src="https://raw.githubusercontent.com/medhavi11/Img-repo/main/images/Group%201%20(1).png?token=GHSAT0AAAAAABJI74QLYVJIUOUEQO64ZPHKYRIOBSA">
  <p>
  <br>
  <br>
