@@ -1,12 +1,11 @@
-#  <p align="center">Hi , I'm Medhavi! <img align="center" src="https://user-images.githubusercontent.com/63841527/138949777-1e20607f-87cd-480c-bcf0-f8f80d2f3817.png" width="200" height="200" />
-<p>  
-<!-- :space_invader: -->
- 
-###   <p align="center">A passionate developer from India<p> 
- 
- <br>
- <br>
+<!-- #  <p align="center">Hi , I'm Medhavi! <img align="center" src="https://user-images.githubusercontent.com/63841527/138949777-1e20607f-87cd-480c-bcf0-f8f80d2f3817.png" width="200" height="200" />
+<p>   -->
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/medhavi11/Img-repo/ca41bc071ec953d53f0a06d8446b8ac45ebd2a47/images/Group%201.png?token=GHSAT0AAAAAABJI74QKZSR4MVWD5MYGPKPEYRIN2AQ" width="5000" height="300">
+ <p>
+ <br>
+ <br>
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
  A contriver, who is passionate about learning :heart:. 
  Some technologies I enjoy working with include ReactJS :atom_symbol: , Firebase :fire:.
