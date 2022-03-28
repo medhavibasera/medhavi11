@@ -2,7 +2,7 @@
 <p>   -->
 
 <p align="center">
-<!-- <img src="https://raw.githubusercontent.com/medhavi11/Img-repo/main/images/Group%201%20(1).png?token=GHSAT0AAAAAABJI74QLEALZSDKSLE7F225SYSDINUA"> -->
+<img src="https://user-images.githubusercontent.com/63841527/160363094-4e920eae-82b3-4fd8-9814-8d164288210b.png">
  <p>
  <br>
  <br>
