@@ -7,9 +7,8 @@
  <br>
  <br>
 <img align="right" src="https://media.giphy.com/media/HoaHfvovCLSvu/giphy.gif" width="350" height="250">
- <h3>I am frontend web developer based in India.
- A contriver, who is passionate about learning :heart:</h3> 
- <br>
+ <h3>I am frontend web developer based in India.<br>
+      A contriver, who is passionate about learning :heart:</h3> 
  Probably building something cool as you read this !
 <br>
 <br>
